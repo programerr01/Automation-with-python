@@ -1,4 +1,4 @@
-# Automaton-with-python
+# Automation-with-python
 automation file system with python.It will automatically stored img vids in desired location without manually to do it.
 
 # Setup
